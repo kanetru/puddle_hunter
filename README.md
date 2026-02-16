@@ -16,6 +16,7 @@ Standard water classifications such as NDWI have simple two band inputs, however
 Puddle Hunter improves on tradtional NDWI classification by incorporating cloud and shadow mask integration, surface reflectance pre-processing, while improving on the spatial resolution of the Landsat classifier from 30m to 10m. 
 The following image is a frequency inundation visualisation of the Windorah region during the West Queensland floods between 03-2025 and 06-2025.
 
+![Puddle Hunter Example](windorah_20250301_20250701.jpg)
 
 **The Workflow**
 
