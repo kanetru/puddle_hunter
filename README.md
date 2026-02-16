@@ -51,6 +51,7 @@ The workflow was evaluated using reference aerial imagery, yielding:
 
 Metric	Value
 Weighted Kappa	0.65
+
 Weighted Accuracy	0.993
 Weighted F1 Score	0.946
 Producer Accuracy – Water	0.806
