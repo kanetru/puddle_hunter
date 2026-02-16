@@ -53,10 +53,15 @@ Metric	Value
 Weighted Kappa	0.65
 
 Weighted Accuracy	0.993
+
 Weighted F1 Score	0.946
+
 Producer Accuracy – Water	0.806
+
 Producer Accuracy – Dry	0.995
+
 User Accuracy – Water	0.989
+
 User Accuracy – Dry	0.902
 
 These results demonstrate high reliability in detecting water pixels while maintaining low false-positive rates for dry areas.
